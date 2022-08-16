@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Sherlock Holmes",
+        "description": "William Sherlock Scott Holmes describes himself initially as 'a consulting detective, the only one in the world', helping out Scotland Yard when they are out of their depth with cases (usually homicides). He appears as a tall, thin man with dark, curly hair. Like the original character, Sherlock is highly intelligent and able to deduce or abduce information from the small details. According to Molly Hooper in the episode The Sign of Three, he is a graduate chemist.",
+        "image_source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sherlock_Holmes_Portrait_Paget.jpg"
+    },
+    {
+        "name": "John Watson",
+        "description": "John Hamish Watson (Martin Freeman) is Sherlock's best friend. He is often a foil to Sherlock in both appearance and personality. Unlike Sherlock, John is short with blond hair. He is friendly, compassionate, and patient, compared to Sherlock's aloof, cold-hearted tendencies. He gets on better with the police and takes care of practical matters at their flat, apparently doing most of the shopping. Sherlock has called him 'the wisest, warmest human being [he] knows', and has stated that "the warmth and constancy of [John's] friendship" can redeem even a 'rude, ignorant, all-around obnoxious arsehole like [Sherlock]'.",
+        "image_source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Gree-01.jpg"
+    },
+    {   "name": "Greg Lestrade",
+        "description": "Detective Inspector Greg Lestrade works for Scotland Yard. He has a reluctant respect for Sherlock and often defends him from the other police officers' animosity. He is often frustrated by Sherlock's cryptic deductions and habit of withholding evidence, but believes that he is a great man (hoping that one day, he can overcome his poorer qualities, and become a 'good' man).",
+        "image_source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/The_Adventure_of_the_Cardboard_Box_06.jpg"
+    } 
+]
